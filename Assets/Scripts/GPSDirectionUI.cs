@@ -63,8 +63,6 @@ public class GPSDirectionUI : MonoBehaviour
         string distText = distance > 1000 ? $"{(distance / 1000f):F2} км" : $"{(int)distance} м";
         string phoneDirection = NavigationMath.GetCardinalDirection(phoneHeading);
 
-        // --- ОНОВЛЕНИЙ ВИВІД ДАНИХ (ВІДКОТ ДО ПОПЕРЕДНЬОЇ ВЕРСІЇ З КУТАМИ) ---
-        // Виводимо сторону світу разом із кутом телефону, а також кут до цілі
         debugText.text =
              $"Напрямок телефону: {phoneDirection} ({phoneHeading:F0}°)\n" +
              $"Кут до цілі: {targetBearing:F0}°\n" +

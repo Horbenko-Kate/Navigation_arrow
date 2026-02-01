@@ -1413,11 +1413,11 @@ IL_013b:
 		String_t* L_53;
 		L_53 = NavigationMath_GetCardinalDirection_mE1C909C426AAB3F2C1ECF6E0A89E5AC66CFDDBEE(L_52, NULL);
 		V_9 = L_53;
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:66>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:67>
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:68>
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:69>
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:70>
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:71>
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:72>
 		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_54 = __this->___debugText;
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_55 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)6);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_56 = L_55;
@@ -1462,7 +1462,7 @@ IL_013b:
 		L_79 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_71, NULL);
 		NullCheck(L_54);
 		VirtualActionInvoker1< String_t* >::Invoke(75, L_54, L_79);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:73>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:71>
 		return;
 	}
 }
@@ -1476,8 +1476,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_UpdateCoordinates_m0105A2
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:77>
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:78>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:75>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:76>
 		InputField_tABEA115F23FBD374EBE80D4FAC1D15BD6E37A140* L_0 = __this->___latInput;
 		NullCheck(L_0);
 		String_t* L_1;
@@ -1510,7 +1510,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_UpdateCoordinates_m0105A2
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:80>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:78>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_10 = __this->___menuPanel;
 		NullCheck(L_10);
 		bool L_11;
@@ -1521,19 +1521,19 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_UpdateCoordinates_m0105A2
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:80>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:78>
 		GPSDirectionUI_ToggleMenu_m103A49B3396DCA8E60CB7AE6AE8D8CFA9D18B41F(__this, NULL);
 	}
 
 IL_0057:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:81>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:79>
 		__this->___hasArrived = (bool)0;
 	}
 
 IL_005e:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:83>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:81>
 		return;
 	}
 }
@@ -1548,18 +1548,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_ToggleMenu_m103A49B3396DC
 	}
 	bool V_0 = false;
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:87>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:85>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = __this->___menuPanel;
 		NullCheck(L_0);
 		bool L_1;
 		L_1 = GameObject_get_activeSelf_m4F3E5240E138B66AAA080EA30759A3D0517DA368(L_0, NULL);
 		V_0 = (bool)((((int32_t)L_1) == ((int32_t)0))? 1 : 0);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:88>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:86>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = __this->___menuPanel;
 		bool L_3 = V_0;
 		NullCheck(L_2);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_2, L_3, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:89>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:87>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_4 = __this->___menuButton;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_5;
@@ -1570,7 +1570,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_ToggleMenu_m103A49B3396DC
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:89>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:87>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_6 = __this->___menuButton;
 		bool L_7 = V_0;
 		NullCheck(L_6);
@@ -1579,7 +1579,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_ToggleMenu_m103A49B3396DC
 
 IL_0038:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:90>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:88>
 		return;
 	}
 }
@@ -1589,7 +1589,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_CloseArrivalPanel_m4C127C
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* G_B2_0 = NULL;
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* G_B1_0 = NULL;
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:92>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:90>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = __this->___arrivalPanel;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1 = L_0;
 		if (L_1)
