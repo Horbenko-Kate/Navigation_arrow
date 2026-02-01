@@ -1060,6 +1060,11 @@ UnityEngine.UISystemProfilerApi::BeginSample
 UnityEngine.UISystemProfilerApi::EndSample
 UnityEngine.UnityConsent.EndUserConsent::GetConsentState_Injected
 UnityEngine.UnityLogWriter::WriteStringToUnityLogImpl_Injected
+UnityEngine.WebCamTexture::get_videoVerticallyMirrored_Injected
+UnityEngine.WebCamTexture::get_videoRotationAngle_Injected
+UnityEngine.WebCamTexture::Internal_CreateWebCamTexture_Injected
+UnityEngine.WebCamTexture::Play_Injected
+UnityEngine.WebCamTexture::get_devices
 UnityEngineInternal.DisplayInternal::PrimaryDisplayIndex
 UnityEngineInternal.Input.NativeInputSystem::get_normalizeScrollWheelDelta
 UnityEngineInternal.Input.NativeInputSystem::get_currentTime

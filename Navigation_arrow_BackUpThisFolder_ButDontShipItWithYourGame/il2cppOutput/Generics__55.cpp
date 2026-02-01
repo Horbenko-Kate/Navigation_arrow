@@ -32125,7 +32125,7 @@ IL_0062:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-// Method Definition Index: 28630
+// Method Definition Index: 28631
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Mathf_NextPowerOfTwo_mA1CE7F3EEF9B0B07AB2D586C030ED236D578F485_inline (int32_t ___0_value, const RuntimeMethod* method) 
 {
 	int32_t V_0 = 0;
