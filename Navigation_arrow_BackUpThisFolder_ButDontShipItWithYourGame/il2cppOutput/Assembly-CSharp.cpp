@@ -115,22 +115,21 @@ IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5
 IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____DA4CD31D05ACCA94E2125729F272A2D3C5DED2755633D7B1B6AB31D2F15072E6_FieldInfo_var;
 IL2CPP_EXTERN_C String_t* _stringLiteral00B28FF06B788B9B67C6B259800F404F9F3761FD;
 IL2CPP_EXTERN_C String_t* _stringLiteral13501980C876349EA27E647493A0C82F37D18B98;
-IL2CPP_EXTERN_C String_t* _stringLiteral1391B65F5AA1520E6EC6DC3726152EF04598E1D5;
 IL2CPP_EXTERN_C String_t* _stringLiteral2A4AF2371E5D32D286057BF0185547BF96F20333;
-IL2CPP_EXTERN_C String_t* _stringLiteral2AD058755E6F51914C4CAD039EB26F52A73297F4;
 IL2CPP_EXTERN_C String_t* _stringLiteral341844182C11003BF7237E671693B35A138A98DB;
 IL2CPP_EXTERN_C String_t* _stringLiteral41D095431F78CACCD64E198C6B2DBEBE29E4A2C9;
 IL2CPP_EXTERN_C String_t* _stringLiteral4F8BA7466969FA39705AB080E45F696F847CA1D6;
 IL2CPP_EXTERN_C String_t* _stringLiteral548A2463C9D0D39839A1E8C579ECC686EBF2555A;
-IL2CPP_EXTERN_C String_t* _stringLiteral56CD7A47BCDABD1E3F579F2BA8BB08367A8DD116;
 IL2CPP_EXTERN_C String_t* _stringLiteral5B22BDBBFD3ABAFA1CCFAC935D53C22FB365720C;
+IL2CPP_EXTERN_C String_t* _stringLiteral6BCFCDC5BE2C412A83EECCF54EF92D6F46ED8A88;
 IL2CPP_EXTERN_C String_t* _stringLiteral710E9C2513D7943AEC37FEA9755C3B75F02A3E64;
+IL2CPP_EXTERN_C String_t* _stringLiteral8A7F56E4E6AC7A65E22B0CE565E995385924CC72;
 IL2CPP_EXTERN_C String_t* _stringLiteral91198018A547CA4551A442F95D295BAE2CB3A0CB;
 IL2CPP_EXTERN_C String_t* _stringLiteralA1594FF3262F6B485D704407A18D9E0756D5E1E5;
 IL2CPP_EXTERN_C String_t* _stringLiteralA544913B02A0A4F597F4760D9831302831E1A8D0;
 IL2CPP_EXTERN_C String_t* _stringLiteralAD7F18B028A0FFC16578CA42928F48EAF0A92B4F;
-IL2CPP_EXTERN_C String_t* _stringLiteralB4136FFE32546F1C2DCE899A6C4ED873C086D766;
 IL2CPP_EXTERN_C String_t* _stringLiteralB5D62F36CFAD85366DBBEB5B61AFF97DDD16E96E;
+IL2CPP_EXTERN_C String_t* _stringLiteralD565F262D979B9FCEF9CB2159229F612C8C70DDA;
 IL2CPP_EXTERN_C String_t* _stringLiteralE9EF9D69C62931C268F94DEDCAC3D725D0272136;
 IL2CPP_EXTERN_C String_t* _stringLiteralFE594177F41E707D8A41674E9FC1A264147DE906;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CSetupLocationAndCompassU3Ed__9_System_Collections_IEnumerator_Reset_m84FAA018934FD4E53CA6E6E24623BD111A09F045_RuntimeMethod_var;
@@ -1210,12 +1209,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_Update_mE97D4DC8F1B0FDEA8
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral00B28FF06B788B9B67C6B259800F404F9F3761FD);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral1391B65F5AA1520E6EC6DC3726152EF04598E1D5);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral2AD058755E6F51914C4CAD039EB26F52A73297F4);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral56CD7A47BCDABD1E3F579F2BA8BB08367A8DD116);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral6BCFCDC5BE2C412A83EECCF54EF92D6F46ED8A88);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral710E9C2513D7943AEC37FEA9755C3B75F02A3E64);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralB4136FFE32546F1C2DCE899A6C4ED873C086D766);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral8A7F56E4E6AC7A65E22B0CE565E995385924CC72);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralB5D62F36CFAD85366DBBEB5B61AFF97DDD16E96E);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralD565F262D979B9FCEF9CB2159229F612C8C70DDA);
 		s_Il2CppMethodInitialized = true;
 	}
 	float V_0 = 0.0f;
@@ -1224,11 +1222,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_Update_mE97D4DC8F1B0FDEA8
 	float V_3 = 0.0f;
 	float V_4 = 0.0f;
 	float V_5 = 0.0f;
-	float V_6 = 0.0f;
-	Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 V_7;
-	memset((&V_7), 0, sizeof(V_7));
+	Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 V_6;
+	memset((&V_6), 0, sizeof(V_6));
+	String_t* V_7 = NULL;
 	String_t* V_8 = NULL;
-	String_t* V_9 = NULL;
+	float G_B7_0 = 0.0f;
+	float G_B4_0 = 0.0f;
+	float G_B5_0 = 0.0f;
+	float G_B6_0 = 0.0f;
 	String_t* G_B12_0 = NULL;
 	{
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:41>
@@ -1285,7 +1286,6 @@ IL_001c:
 		float L_13 = __this->___destLon;
 		float L_14;
 		L_14 = NavigationMath_CalculateBearing_m75A833B2C9C8D2C59749A7F21CDFD493ED9C4A76(L_10, L_11, L_12, L_13, NULL);
-		V_3 = L_14;
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:48>
 		float L_15 = V_0;
 		float L_16 = V_1;
@@ -1293,21 +1293,25 @@ IL_001c:
 		float L_18 = __this->___destLon;
 		float L_19;
 		L_19 = NavigationMath_CalculateDistance_m00A0113885AAC28E3F9D482BD0AC2F44067D2F46(L_15, L_16, L_17, L_18, NULL);
-		V_4 = L_19;
+		V_3 = L_19;
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:50>
-		float L_20 = V_4;
+		float L_20 = V_3;
 		float L_21 = __this->___arrivalThreshold;
 		if ((!(((float)L_20) <= ((float)L_21))))
 		{
-			goto IL_009c;
+			G_B7_0 = L_14;
+			goto IL_0099;
 		}
+		G_B4_0 = L_14;
 	}
 	{
 		bool L_22 = __this->___hasArrived;
 		if (L_22)
 		{
-			goto IL_009c;
+			G_B7_0 = G_B4_0;
+			goto IL_0099;
 		}
+		G_B5_0 = G_B4_0;
 	}
 	{
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:52>
@@ -1319,150 +1323,141 @@ IL_001c:
 		L_24 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_23, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_24)
 		{
-			goto IL_009c;
+			G_B7_0 = G_B5_0;
+			goto IL_0099;
 		}
+		G_B6_0 = G_B5_0;
 	}
 	{
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:53>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_25 = __this->___arrivalPanel;
 		NullCheck(L_25);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_25, (bool)1, NULL);
+		G_B7_0 = G_B6_0;
 	}
 
-IL_009c:
+IL_0099:
 	{
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:56>
-		float L_26 = V_3;
-		float L_27 = V_2;
-		float L_28 = __this->___directionOffset;
-		V_5 = ((float)il2cpp_codegen_add(((float)il2cpp_codegen_subtract(L_26, L_27)), L_28));
+		float L_26 = V_2;
+		float L_27 = __this->___directionOffset;
+		V_4 = ((float)il2cpp_codegen_add(((float)il2cpp_codegen_subtract(G_B7_0, L_26)), L_27));
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:57>
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_29 = __this->___arrowTransform;
-		NullCheck(L_29);
-		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_30;
-		L_30 = Transform_get_localEulerAngles_m358AA9AE8FA24FD1BB7842D231C8644D1C2910C6(L_29, NULL);
-		float L_31 = L_30.___y;
-		float L_32 = V_5;
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_28 = __this->___arrowTransform;
+		NullCheck(L_28);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_29;
+		L_29 = Transform_get_localEulerAngles_m358AA9AE8FA24FD1BB7842D231C8644D1C2910C6(L_28, NULL);
+		float L_30 = L_29.___y;
+		float L_31 = V_4;
+		float L_32;
+		L_32 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		float L_33;
-		L_33 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
-		float L_34;
-		L_34 = Mathf_LerpAngle_m0653422E15193C2E4A4E5AF05236B6315C789C23_inline(L_31, L_32, ((float)il2cpp_codegen_multiply(L_33, (5.0f))), NULL);
-		V_6 = L_34;
+		L_33 = Mathf_LerpAngle_m0653422E15193C2E4A4E5AF05236B6315C789C23_inline(L_30, L_31, ((float)il2cpp_codegen_multiply(L_32, (5.0f))), NULL);
+		V_5 = L_33;
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:59>
-		float L_35 = V_6;
-		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_36;
-		L_36 = Quaternion_Euler_m9262AB29E3E9CE94EF71051F38A28E82AEC73F90_inline((0.0f), L_35, (0.0f), NULL);
-		V_7 = L_36;
+		float L_34 = V_5;
+		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_35;
+		L_35 = Quaternion_Euler_m9262AB29E3E9CE94EF71051F38A28E82AEC73F90_inline((0.0f), L_34, (0.0f), NULL);
+		V_6 = L_35;
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:60>
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_37 = __this->___arrowTransform;
-		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_38 = V_7;
-		NullCheck(L_37);
-		Transform_set_localRotation_mAB4A011D134BA58AB780BECC0025CA65F16185FA(L_37, L_38, NULL);
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_36 = __this->___arrowTransform;
+		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_37 = V_6;
+		NullCheck(L_36);
+		Transform_set_localRotation_mAB4A011D134BA58AB780BECC0025CA65F16185FA(L_36, L_37, NULL);
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:61>
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_39 = __this->___arrowLineTransform;
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_38 = __this->___arrowLineTransform;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_40;
-		L_40 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_39, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_40)
+		bool L_39;
+		L_39 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_38, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_39)
 		{
-			goto IL_0107;
+			goto IL_0103;
 		}
 	}
 	{
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:61>
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_41 = __this->___arrowLineTransform;
-		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_42 = V_7;
-		NullCheck(L_41);
-		Transform_set_localRotation_mAB4A011D134BA58AB780BECC0025CA65F16185FA(L_41, L_42, NULL);
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_40 = __this->___arrowLineTransform;
+		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_41 = V_6;
+		NullCheck(L_40);
+		Transform_set_localRotation_mAB4A011D134BA58AB780BECC0025CA65F16185FA(L_40, L_41, NULL);
 	}
 
-IL_0107:
+IL_0103:
 	{
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:63>
-		float L_43 = V_4;
-		if ((((float)L_43) > ((float)(1000.0f))))
+		float L_42 = V_3;
+		if ((((float)L_42) > ((float)(1000.0f))))
 		{
-			goto IL_0124;
+			goto IL_011e;
 		}
 	}
 	{
-		float L_44 = V_4;
-		int32_t L_45 = il2cpp_codegen_cast_double_to_int<int32_t>(L_44);
-		RuntimeObject* L_46 = Box(il2cpp_defaults.int32_class, &L_45);
-		String_t* L_47;
-		L_47 = String_Format_mA8DBB4C2516B9723C5A41E6CB1E2FAF4BBE96DD8(_stringLiteralB5D62F36CFAD85366DBBEB5B61AFF97DDD16E96E, L_46, NULL);
-		G_B12_0 = L_47;
-		goto IL_013b;
+		float L_43 = V_3;
+		int32_t L_44 = il2cpp_codegen_cast_double_to_int<int32_t>(L_43);
+		RuntimeObject* L_45 = Box(il2cpp_defaults.int32_class, &L_44);
+		String_t* L_46;
+		L_46 = String_Format_mA8DBB4C2516B9723C5A41E6CB1E2FAF4BBE96DD8(_stringLiteralB5D62F36CFAD85366DBBEB5B61AFF97DDD16E96E, L_45, NULL);
+		G_B12_0 = L_46;
+		goto IL_0134;
 	}
 
-IL_0124:
+IL_011e:
 	{
-		float L_48 = V_4;
-		float L_49 = ((float)(L_48/(1000.0f)));
-		RuntimeObject* L_50 = Box(il2cpp_defaults.single_class, &L_49);
-		String_t* L_51;
-		L_51 = String_Format_mA8DBB4C2516B9723C5A41E6CB1E2FAF4BBE96DD8(_stringLiteral710E9C2513D7943AEC37FEA9755C3B75F02A3E64, L_50, NULL);
-		G_B12_0 = L_51;
+		float L_47 = V_3;
+		float L_48 = ((float)(L_47/(1000.0f)));
+		RuntimeObject* L_49 = Box(il2cpp_defaults.single_class, &L_48);
+		String_t* L_50;
+		L_50 = String_Format_mA8DBB4C2516B9723C5A41E6CB1E2FAF4BBE96DD8(_stringLiteral710E9C2513D7943AEC37FEA9755C3B75F02A3E64, L_49, NULL);
+		G_B12_0 = L_50;
 	}
 
-IL_013b:
+IL_0134:
 	{
-		V_8 = G_B12_0;
+		V_7 = G_B12_0;
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:64>
-		float L_52 = V_2;
-		String_t* L_53;
-		L_53 = NavigationMath_GetCardinalDirection_mE1C909C426AAB3F2C1ECF6E0A89E5AC66CFDDBEE(L_52, NULL);
-		V_9 = L_53;
+		float L_51 = V_2;
+		String_t* L_52;
+		L_52 = NavigationMath_GetCardinalDirection_mE1C909C426AAB3F2C1ECF6E0A89E5AC66CFDDBEE(L_51, NULL);
+		V_8 = L_52;
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:66>
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:67>
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:68>
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:69>
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:70>
-		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_54 = __this->___debugText;
-		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_55 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)6);
+		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_53 = __this->___debugText;
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_54 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)6);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_55 = L_54;
+		NullCheck(L_55);
+		(L_55)->SetAt(static_cast<il2cpp_array_size_t>(0), (String_t*)_stringLiteralD565F262D979B9FCEF9CB2159229F612C8C70DDA);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_56 = L_55;
-		String_t* L_57 = V_9;
-		float L_58 = V_2;
-		float L_59 = L_58;
-		RuntimeObject* L_60 = Box(il2cpp_defaults.single_class, &L_59);
-		String_t* L_61;
-		L_61 = String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987(_stringLiteral2AD058755E6F51914C4CAD039EB26F52A73297F4, L_57, L_60, NULL);
+		String_t* L_57 = V_8;
 		NullCheck(L_56);
-		(L_56)->SetAt(static_cast<il2cpp_array_size_t>(0), (String_t*)L_61);
-		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_62 = L_56;
-		float L_63 = V_3;
+		(L_56)->SetAt(static_cast<il2cpp_array_size_t>(1), (String_t*)L_57);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_58 = L_56;
+		NullCheck(L_58);
+		(L_58)->SetAt(static_cast<il2cpp_array_size_t>(2), (String_t*)_stringLiteral8A7F56E4E6AC7A65E22B0CE565E995385924CC72);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_59 = L_58;
+		String_t* L_60 = V_7;
+		NullCheck(L_59);
+		(L_59)->SetAt(static_cast<il2cpp_array_size_t>(3), (String_t*)L_60);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_61 = L_59;
+		NullCheck(L_61);
+		(L_61)->SetAt(static_cast<il2cpp_array_size_t>(4), (String_t*)_stringLiteral00B28FF06B788B9B67C6B259800F404F9F3761FD);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_62 = L_61;
+		float L_63 = V_0;
 		float L_64 = L_63;
 		RuntimeObject* L_65 = Box(il2cpp_defaults.single_class, &L_64);
-		String_t* L_66;
-		L_66 = String_Format_mA8DBB4C2516B9723C5A41E6CB1E2FAF4BBE96DD8(_stringLiteralB4136FFE32546F1C2DCE899A6C4ED873C086D766, L_65, NULL);
+		float L_66 = V_1;
+		float L_67 = L_66;
+		RuntimeObject* L_68 = Box(il2cpp_defaults.single_class, &L_67);
+		String_t* L_69;
+		L_69 = String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987(_stringLiteral6BCFCDC5BE2C412A83EECCF54EF92D6F46ED8A88, L_65, L_68, NULL);
 		NullCheck(L_62);
-		(L_62)->SetAt(static_cast<il2cpp_array_size_t>(1), (String_t*)L_66);
-		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_67 = L_62;
-		NullCheck(L_67);
-		(L_67)->SetAt(static_cast<il2cpp_array_size_t>(2), (String_t*)_stringLiteral56CD7A47BCDABD1E3F579F2BA8BB08367A8DD116);
-		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_68 = L_67;
-		String_t* L_69 = V_8;
-		NullCheck(L_68);
-		(L_68)->SetAt(static_cast<il2cpp_array_size_t>(3), (String_t*)L_69);
-		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_70 = L_68;
-		NullCheck(L_70);
-		(L_70)->SetAt(static_cast<il2cpp_array_size_t>(4), (String_t*)_stringLiteral00B28FF06B788B9B67C6B259800F404F9F3761FD);
-		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_71 = L_70;
-		float L_72 = V_0;
-		float L_73 = L_72;
-		RuntimeObject* L_74 = Box(il2cpp_defaults.single_class, &L_73);
-		float L_75 = V_1;
-		float L_76 = L_75;
-		RuntimeObject* L_77 = Box(il2cpp_defaults.single_class, &L_76);
-		String_t* L_78;
-		L_78 = String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987(_stringLiteral1391B65F5AA1520E6EC6DC3726152EF04598E1D5, L_74, L_77, NULL);
-		NullCheck(L_71);
-		(L_71)->SetAt(static_cast<il2cpp_array_size_t>(5), (String_t*)L_78);
-		String_t* L_79;
-		L_79 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_71, NULL);
-		NullCheck(L_54);
-		VirtualActionInvoker1< String_t* >::Invoke(75, L_54, L_79);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:71>
+		(L_62)->SetAt(static_cast<il2cpp_array_size_t>(5), (String_t*)L_69);
+		String_t* L_70;
+		L_70 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_62, NULL);
+		NullCheck(L_53);
+		VirtualActionInvoker1< String_t* >::Invoke(75, L_53, L_70);
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:70>
 		return;
 	}
 }
@@ -1476,8 +1471,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_UpdateCoordinates_m0105A2
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:74>
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:75>
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:76>
 		InputField_tABEA115F23FBD374EBE80D4FAC1D15BD6E37A140* L_0 = __this->___latInput;
 		NullCheck(L_0);
 		String_t* L_1;
@@ -1510,7 +1505,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_UpdateCoordinates_m0105A2
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:78>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:77>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_10 = __this->___menuPanel;
 		NullCheck(L_10);
 		bool L_11;
@@ -1521,19 +1516,19 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_UpdateCoordinates_m0105A2
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:78>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:77>
 		GPSDirectionUI_ToggleMenu_m103A49B3396DCA8E60CB7AE6AE8D8CFA9D18B41F(__this, NULL);
 	}
 
 IL_0057:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:79>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:78>
 		__this->___hasArrived = (bool)0;
 	}
 
 IL_005e:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:81>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:80>
 		return;
 	}
 }
@@ -1548,18 +1543,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_ToggleMenu_m103A49B3396DC
 	}
 	bool V_0 = false;
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:85>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:84>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = __this->___menuPanel;
 		NullCheck(L_0);
 		bool L_1;
 		L_1 = GameObject_get_activeSelf_m4F3E5240E138B66AAA080EA30759A3D0517DA368(L_0, NULL);
 		V_0 = (bool)((((int32_t)L_1) == ((int32_t)0))? 1 : 0);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:86>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:85>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = __this->___menuPanel;
 		bool L_3 = V_0;
 		NullCheck(L_2);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_2, L_3, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:87>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:86>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_4 = __this->___menuButton;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_5;
@@ -1570,7 +1565,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_ToggleMenu_m103A49B3396DC
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:87>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:86>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_6 = __this->___menuButton;
 		bool L_7 = V_0;
 		NullCheck(L_6);
@@ -1579,7 +1574,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_ToggleMenu_m103A49B3396DC
 
 IL_0038:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:88>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:87>
 		return;
 	}
 }
@@ -1589,7 +1584,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_CloseArrivalPanel_m4C127C
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* G_B2_0 = NULL;
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* G_B1_0 = NULL;
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:90>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:89>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = __this->___arrivalPanel;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1 = L_0;
 		if (L_1)

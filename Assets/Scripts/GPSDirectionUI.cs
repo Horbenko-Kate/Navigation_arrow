@@ -64,10 +64,9 @@ public class GPSDirectionUI : MonoBehaviour
         string phoneDirection = NavigationMath.GetCardinalDirection(phoneHeading);
 
         debugText.text =
-             $"Напрямок телефону: {phoneDirection} ({phoneHeading:F0}°)\n" +
-             $"Кут до цілі: {targetBearing:F0}°\n" +
-             $"Відстань до цілі: {distText}\n" +
-             $"Мої координати: {curLat:F5} {curLon:F5}";
+                     $"Напрямок телефону: {phoneDirection}\n" +
+                     $"Відстань до цілі: {distText}\n" +
+                     $"Мої координати:\n          Широта: {curLat:F5}\n          Довгота: {curLon:F5}";
     }
 
     public void UpdateCoordinates()
