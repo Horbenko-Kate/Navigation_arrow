@@ -114,22 +114,22 @@ IL2CPP_EXTERN_C RuntimeClass* WebCamTexture_t2021D179149C925AA6D73E6F1898C8D4652
 IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____D5116C7D03D473A47FD9DFFAF2C6516C40D76239AB4B02C5F0321343157E16D5_FieldInfo_var;
 IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____DA4CD31D05ACCA94E2125729F272A2D3C5DED2755633D7B1B6AB31D2F15072E6_FieldInfo_var;
 IL2CPP_EXTERN_C String_t* _stringLiteral00B28FF06B788B9B67C6B259800F404F9F3761FD;
+IL2CPP_EXTERN_C String_t* _stringLiteral0578BE0FEBC1A844980BB06A8112ED34EFFB429A;
+IL2CPP_EXTERN_C String_t* _stringLiteral0DCAFC458ECDC64EF914325E0662B8951F072BB7;
 IL2CPP_EXTERN_C String_t* _stringLiteral13501980C876349EA27E647493A0C82F37D18B98;
 IL2CPP_EXTERN_C String_t* _stringLiteral2A4AF2371E5D32D286057BF0185547BF96F20333;
+IL2CPP_EXTERN_C String_t* _stringLiteral304ED7F4A789BA1829F2CFFEFDCE6AAB6D5E2993;
 IL2CPP_EXTERN_C String_t* _stringLiteral341844182C11003BF7237E671693B35A138A98DB;
 IL2CPP_EXTERN_C String_t* _stringLiteral41D095431F78CACCD64E198C6B2DBEBE29E4A2C9;
+IL2CPP_EXTERN_C String_t* _stringLiteral4AED01F27F05DDA1AC66F17BE2CF2B6FC7058999;
+IL2CPP_EXTERN_C String_t* _stringLiteral4E1C1C28D68F8EA6BA501C0351D41658BB671B96;
 IL2CPP_EXTERN_C String_t* _stringLiteral4F8BA7466969FA39705AB080E45F696F847CA1D6;
+IL2CPP_EXTERN_C String_t* _stringLiteral5108B700CF3E857B0D9310087F9C54103FED99B0;
 IL2CPP_EXTERN_C String_t* _stringLiteral548A2463C9D0D39839A1E8C579ECC686EBF2555A;
-IL2CPP_EXTERN_C String_t* _stringLiteral5B22BDBBFD3ABAFA1CCFAC935D53C22FB365720C;
-IL2CPP_EXTERN_C String_t* _stringLiteral6BCFCDC5BE2C412A83EECCF54EF92D6F46ED8A88;
-IL2CPP_EXTERN_C String_t* _stringLiteral710E9C2513D7943AEC37FEA9755C3B75F02A3E64;
-IL2CPP_EXTERN_C String_t* _stringLiteral8A7F56E4E6AC7A65E22B0CE565E995385924CC72;
-IL2CPP_EXTERN_C String_t* _stringLiteral91198018A547CA4551A442F95D295BAE2CB3A0CB;
+IL2CPP_EXTERN_C String_t* _stringLiteral9150854E20960D7C4FF22DA43731C86836B37759;
 IL2CPP_EXTERN_C String_t* _stringLiteralA1594FF3262F6B485D704407A18D9E0756D5E1E5;
 IL2CPP_EXTERN_C String_t* _stringLiteralA544913B02A0A4F597F4760D9831302831E1A8D0;
 IL2CPP_EXTERN_C String_t* _stringLiteralAD7F18B028A0FFC16578CA42928F48EAF0A92B4F;
-IL2CPP_EXTERN_C String_t* _stringLiteralB5D62F36CFAD85366DBBEB5B61AFF97DDD16E96E;
-IL2CPP_EXTERN_C String_t* _stringLiteralD565F262D979B9FCEF9CB2159229F612C8C70DDA;
 IL2CPP_EXTERN_C String_t* _stringLiteralE9EF9D69C62931C268F94DEDCAC3D725D0272136;
 IL2CPP_EXTERN_C String_t* _stringLiteralFE594177F41E707D8A41674E9FC1A264147DE906;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CSetupLocationAndCompassU3Ed__9_System_Collections_IEnumerator_Reset_m84FAA018934FD4E53CA6E6E24623BD111A09F045_RuntimeMethod_var;
@@ -1129,15 +1129,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_Start_mEC66152ED803C2C23E
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:29>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:34>
 		InputField_tABEA115F23FBD374EBE80D4FAC1D15BD6E37A140* L_0 = __this->___latInput;
 		NullCheck(L_0);
 		InputField_set_text_m28B1C806BBCAC44F3ACCDC3B550509CA0C7D257F(L_0, _stringLiteral548A2463C9D0D39839A1E8C579ECC686EBF2555A, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:30>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:35>
 		InputField_tABEA115F23FBD374EBE80D4FAC1D15BD6E37A140* L_1 = __this->___lonInput;
 		NullCheck(L_1);
 		InputField_set_text_m28B1C806BBCAC44F3ACCDC3B550509CA0C7D257F(L_1, _stringLiteral341844182C11003BF7237E671693B35A138A98DB, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:32>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:38>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = __this->___menuPanel;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_3;
@@ -1148,7 +1148,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_Start_mEC66152ED803C2C23E
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:32>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:38>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_4 = __this->___menuPanel;
 		NullCheck(L_4);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_4, (bool)0, NULL);
@@ -1156,7 +1156,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_Start_mEC66152ED803C2C23E
 
 IL_003a:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:33>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:39>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_5 = __this->___arrivalPanel;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_6;
@@ -1167,7 +1167,7 @@ IL_003a:
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:33>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:39>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_7 = __this->___arrivalPanel;
 		NullCheck(L_7);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_7, (bool)0, NULL);
@@ -1175,7 +1175,7 @@ IL_003a:
 
 IL_0054:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:34>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:40>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_8 = __this->___menuButton;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_9;
@@ -1186,7 +1186,7 @@ IL_0054:
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:34>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:40>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_10 = __this->___menuButton;
 		NullCheck(L_10);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_10, (bool)1, NULL);
@@ -1194,9 +1194,9 @@ IL_0054:
 
 IL_006e:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:36>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:43>
 		GPSDirectionUI_UpdateCoordinates_m0105A2157EAD7800A7A3F52503E9F0734BBA6207(__this, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:37>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:44>
 		return;
 	}
 }
@@ -1209,11 +1209,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_Update_mE97D4DC8F1B0FDEA8
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral00B28FF06B788B9B67C6B259800F404F9F3761FD);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral6BCFCDC5BE2C412A83EECCF54EF92D6F46ED8A88);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral710E9C2513D7943AEC37FEA9755C3B75F02A3E64);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral8A7F56E4E6AC7A65E22B0CE565E995385924CC72);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralB5D62F36CFAD85366DBBEB5B61AFF97DDD16E96E);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralD565F262D979B9FCEF9CB2159229F612C8C70DDA);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral0578BE0FEBC1A844980BB06A8112ED34EFFB429A);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral0DCAFC458ECDC64EF914325E0662B8951F072BB7);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral4AED01F27F05DDA1AC66F17BE2CF2B6FC7058999);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral4E1C1C28D68F8EA6BA501C0351D41658BB671B96);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral9150854E20960D7C4FF22DA43731C86836B37759);
 		s_Il2CppMethodInitialized = true;
 	}
 	float V_0 = 0.0f;
@@ -1232,7 +1232,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_Update_mE97D4DC8F1B0FDEA8
 	float G_B6_0 = 0.0f;
 	String_t* G_B12_0 = NULL;
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:41>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:50>
 		GPSService_t9D260C4C912389D359B347103B60C62CBCB58253* L_0 = __this->___gpsService;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -1255,38 +1255,38 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_Update_mE97D4DC8F1B0FDEA8
 
 IL_001b:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:41>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:50>
 		return;
 	}
 
 IL_001c:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:43>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:53>
 		GPSService_t9D260C4C912389D359B347103B60C62CBCB58253* L_4 = __this->___gpsService;
 		NullCheck(L_4);
 		float L_5;
 		L_5 = GPSService_get_CurrentLat_mE1E53ACBF1BBCB69F6C247ECC33A2B30D5CF8463(L_4, NULL);
 		V_0 = L_5;
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:44>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:54>
 		GPSService_t9D260C4C912389D359B347103B60C62CBCB58253* L_6 = __this->___gpsService;
 		NullCheck(L_6);
 		float L_7;
 		L_7 = GPSService_get_CurrentLon_m5F457D4802131222DB26676C7599AE07F67857E3(L_6, NULL);
 		V_1 = L_7;
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:45>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:55>
 		GPSService_t9D260C4C912389D359B347103B60C62CBCB58253* L_8 = __this->___gpsService;
 		NullCheck(L_8);
 		float L_9;
 		L_9 = GPSService_get_Heading_mAFEA8820F1D61FB679CE548888F322F9E9A5C1B7(L_8, NULL);
 		V_2 = L_9;
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:47>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:58>
 		float L_10 = V_0;
 		float L_11 = V_1;
 		float L_12 = __this->___destLat;
 		float L_13 = __this->___destLon;
 		float L_14;
 		L_14 = NavigationMath_CalculateBearing_m75A833B2C9C8D2C59749A7F21CDFD493ED9C4A76(L_10, L_11, L_12, L_13, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:48>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:59>
 		float L_15 = V_0;
 		float L_16 = V_1;
 		float L_17 = __this->___destLat;
@@ -1294,7 +1294,7 @@ IL_001c:
 		float L_19;
 		L_19 = NavigationMath_CalculateDistance_m00A0113885AAC28E3F9D482BD0AC2F44067D2F46(L_15, L_16, L_17, L_18, NULL);
 		V_3 = L_19;
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:50>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:62>
 		float L_20 = V_3;
 		float L_21 = __this->___arrivalThreshold;
 		if ((!(((float)L_20) <= ((float)L_21))))
@@ -1314,9 +1314,9 @@ IL_001c:
 		G_B5_0 = G_B4_0;
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:52>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:64>
 		__this->___hasArrived = (bool)1;
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:53>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:65>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_23 = __this->___arrivalPanel;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_24;
@@ -1329,7 +1329,7 @@ IL_001c:
 		G_B6_0 = G_B5_0;
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:53>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:65>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_25 = __this->___arrivalPanel;
 		NullCheck(L_25);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_25, (bool)1, NULL);
@@ -1338,11 +1338,11 @@ IL_001c:
 
 IL_0099:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:56>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:69>
 		float L_26 = V_2;
 		float L_27 = __this->___directionOffset;
 		V_4 = ((float)il2cpp_codegen_add(((float)il2cpp_codegen_subtract(G_B7_0, L_26)), L_27));
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:57>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:72>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_28 = __this->___arrowTransform;
 		NullCheck(L_28);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_29;
@@ -1354,17 +1354,17 @@ IL_0099:
 		float L_33;
 		L_33 = Mathf_LerpAngle_m0653422E15193C2E4A4E5AF05236B6315C789C23_inline(L_30, L_31, ((float)il2cpp_codegen_multiply(L_32, (5.0f))), NULL);
 		V_5 = L_33;
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:59>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:75>
 		float L_34 = V_5;
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_35;
 		L_35 = Quaternion_Euler_m9262AB29E3E9CE94EF71051F38A28E82AEC73F90_inline((0.0f), L_34, (0.0f), NULL);
 		V_6 = L_35;
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:60>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:76>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_36 = __this->___arrowTransform;
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_37 = V_6;
 		NullCheck(L_36);
 		Transform_set_localRotation_mAB4A011D134BA58AB780BECC0025CA65F16185FA(L_36, L_37, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:61>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:77>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_38 = __this->___arrowLineTransform;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_39;
@@ -1375,7 +1375,7 @@ IL_0099:
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:61>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:77>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_40 = __this->___arrowLineTransform;
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_41 = V_6;
 		NullCheck(L_40);
@@ -1384,7 +1384,7 @@ IL_0099:
 
 IL_0103:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:63>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:80>
 		float L_42 = V_3;
 		if ((((float)L_42) > ((float)(1000.0f))))
 		{
@@ -1396,7 +1396,7 @@ IL_0103:
 		int32_t L_44 = il2cpp_codegen_cast_double_to_int<int32_t>(L_43);
 		RuntimeObject* L_45 = Box(il2cpp_defaults.int32_class, &L_44);
 		String_t* L_46;
-		L_46 = String_Format_mA8DBB4C2516B9723C5A41E6CB1E2FAF4BBE96DD8(_stringLiteralB5D62F36CFAD85366DBBEB5B61AFF97DDD16E96E, L_45, NULL);
+		L_46 = String_Format_mA8DBB4C2516B9723C5A41E6CB1E2FAF4BBE96DD8(_stringLiteral9150854E20960D7C4FF22DA43731C86836B37759, L_45, NULL);
 		G_B12_0 = L_46;
 		goto IL_0134;
 	}
@@ -1407,34 +1407,34 @@ IL_011e:
 		float L_48 = ((float)(L_47/(1000.0f)));
 		RuntimeObject* L_49 = Box(il2cpp_defaults.single_class, &L_48);
 		String_t* L_50;
-		L_50 = String_Format_mA8DBB4C2516B9723C5A41E6CB1E2FAF4BBE96DD8(_stringLiteral710E9C2513D7943AEC37FEA9755C3B75F02A3E64, L_49, NULL);
+		L_50 = String_Format_mA8DBB4C2516B9723C5A41E6CB1E2FAF4BBE96DD8(_stringLiteral0DCAFC458ECDC64EF914325E0662B8951F072BB7, L_49, NULL);
 		G_B12_0 = L_50;
 	}
 
 IL_0134:
 	{
 		V_7 = G_B12_0;
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:64>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:83>
 		float L_51 = V_2;
 		String_t* L_52;
 		L_52 = NavigationMath_GetCardinalDirection_mE1C909C426AAB3F2C1ECF6E0A89E5AC66CFDDBEE(L_51, NULL);
 		V_8 = L_52;
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:66>
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:67>
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:68>
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:69>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:86>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:87>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:88>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:89>
 		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_53 = __this->___debugText;
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_54 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)6);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_55 = L_54;
 		NullCheck(L_55);
-		(L_55)->SetAt(static_cast<il2cpp_array_size_t>(0), (String_t*)_stringLiteralD565F262D979B9FCEF9CB2159229F612C8C70DDA);
+		(L_55)->SetAt(static_cast<il2cpp_array_size_t>(0), (String_t*)_stringLiteral4E1C1C28D68F8EA6BA501C0351D41658BB671B96);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_56 = L_55;
 		String_t* L_57 = V_8;
 		NullCheck(L_56);
 		(L_56)->SetAt(static_cast<il2cpp_array_size_t>(1), (String_t*)L_57);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_58 = L_56;
 		NullCheck(L_58);
-		(L_58)->SetAt(static_cast<il2cpp_array_size_t>(2), (String_t*)_stringLiteral8A7F56E4E6AC7A65E22B0CE565E995385924CC72);
+		(L_58)->SetAt(static_cast<il2cpp_array_size_t>(2), (String_t*)_stringLiteral4AED01F27F05DDA1AC66F17BE2CF2B6FC7058999);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_59 = L_58;
 		String_t* L_60 = V_7;
 		NullCheck(L_59);
@@ -1450,14 +1450,14 @@ IL_0134:
 		float L_67 = L_66;
 		RuntimeObject* L_68 = Box(il2cpp_defaults.single_class, &L_67);
 		String_t* L_69;
-		L_69 = String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987(_stringLiteral6BCFCDC5BE2C412A83EECCF54EF92D6F46ED8A88, L_65, L_68, NULL);
+		L_69 = String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987(_stringLiteral0578BE0FEBC1A844980BB06A8112ED34EFFB429A, L_65, L_68, NULL);
 		NullCheck(L_62);
 		(L_62)->SetAt(static_cast<il2cpp_array_size_t>(5), (String_t*)L_69);
 		String_t* L_70;
 		L_70 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_62, NULL);
 		NullCheck(L_53);
 		VirtualActionInvoker1< String_t* >::Invoke(75, L_53, L_70);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:70>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:90>
 		return;
 	}
 }
@@ -1471,8 +1471,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_UpdateCoordinates_m0105A2
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:74>
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:75>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:96>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:97>
 		InputField_tABEA115F23FBD374EBE80D4FAC1D15BD6E37A140* L_0 = __this->___latInput;
 		NullCheck(L_0);
 		String_t* L_1;
@@ -1505,7 +1505,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_UpdateCoordinates_m0105A2
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:77>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:100>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_10 = __this->___menuPanel;
 		NullCheck(L_10);
 		bool L_11;
@@ -1516,19 +1516,19 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_UpdateCoordinates_m0105A2
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:77>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:100>
 		GPSDirectionUI_ToggleMenu_m103A49B3396DCA8E60CB7AE6AE8D8CFA9D18B41F(__this, NULL);
 	}
 
 IL_0057:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:78>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:101>
 		__this->___hasArrived = (bool)0;
 	}
 
 IL_005e:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:80>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:103>
 		return;
 	}
 }
@@ -1543,18 +1543,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_ToggleMenu_m103A49B3396DC
 	}
 	bool V_0 = false;
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:84>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:108>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = __this->___menuPanel;
 		NullCheck(L_0);
 		bool L_1;
 		L_1 = GameObject_get_activeSelf_m4F3E5240E138B66AAA080EA30759A3D0517DA368(L_0, NULL);
 		V_0 = (bool)((((int32_t)L_1) == ((int32_t)0))? 1 : 0);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:85>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:109>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = __this->___menuPanel;
 		bool L_3 = V_0;
 		NullCheck(L_2);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_2, L_3, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:86>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:111>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_4 = __this->___menuButton;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_5;
@@ -1565,7 +1565,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_ToggleMenu_m103A49B3396DC
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:86>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:111>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_6 = __this->___menuButton;
 		bool L_7 = V_0;
 		NullCheck(L_6);
@@ -1574,7 +1574,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_ToggleMenu_m103A49B3396DC
 
 IL_0038:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:87>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:112>
 		return;
 	}
 }
@@ -1584,7 +1584,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI_CloseArrivalPanel_m4C127C
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* G_B2_0 = NULL;
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* G_B1_0 = NULL;
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:89>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:115>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = __this->___arrivalPanel;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1 = L_0;
 		if (L_1)
@@ -1609,7 +1609,7 @@ IL_000b:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI__ctor_mD53E9CB12CA98D6E446184F4D6A7ED6D0E5C03B5 (GPSDirectionUI_t8FD5E65B180B0A96BDBCC332F547F245CA2897F4* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:22>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSDirectionUI.cs:25>
 		__this->___arrivalThreshold = (5.0f);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -1627,7 +1627,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSDirectionUI__ctor_mD53E9CB12CA98D6E44
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool GPSService_get_IsRunning_mCCCF38A877A3528EE20A74E982C5992461047757 (GPSService_t9D260C4C912389D359B347103B60C62CBCB58253* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:7>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:8>
 		LocationService_tF2F2720FE2C07562EBFD128889F9A99F4B41B1B2* L_0;
 		L_0 = Input_get_location_m1D1FA0938E5B83C46A666CE78D95A58B39164DB5(NULL);
 		NullCheck(L_0);
@@ -1642,7 +1642,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float GPSService_get_CurrentLat_mE1E53ACBF1BB
 	LocationInfo_tBFD49220A54B71CDF564F61822F7B8D524465441 V_0;
 	memset((&V_0), 0, sizeof(V_0));
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:8>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:9>
 		LocationService_tF2F2720FE2C07562EBFD128889F9A99F4B41B1B2* L_0;
 		L_0 = Input_get_location_m1D1FA0938E5B83C46A666CE78D95A58B39164DB5(NULL);
 		NullCheck(L_0);
@@ -1660,7 +1660,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float GPSService_get_CurrentLon_m5F457D480213
 	LocationInfo_tBFD49220A54B71CDF564F61822F7B8D524465441 V_0;
 	memset((&V_0), 0, sizeof(V_0));
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:9>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:10>
 		LocationService_tF2F2720FE2C07562EBFD128889F9A99F4B41B1B2* L_0;
 		L_0 = Input_get_location_m1D1FA0938E5B83C46A666CE78D95A58B39164DB5(NULL);
 		NullCheck(L_0);
@@ -1676,7 +1676,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float GPSService_get_CurrentLon_m5F457D480213
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float GPSService_get_Heading_mAFEA8820F1D61FB679CE548888F322F9E9A5C1B7 (GPSService_t9D260C4C912389D359B347103B60C62CBCB58253* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:10>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:13>
 		Compass_t161CD14062E71ED7324FE12ED003EE0877EE546F* L_0;
 		L_0 = Input_get_compass_m7DA4657286F9B24D55BB120C9CF761A50B13899B(NULL);
 		NullCheck(L_0);
@@ -1710,12 +1710,12 @@ IL_001c:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GPSService_Start_mF46009619C4D96A48A26269EB7ED719BD21D91A4 (GPSService_t9D260C4C912389D359B347103B60C62CBCB58253* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:14>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:18>
 		RuntimeObject* L_0;
 		L_0 = GPSService_SetupLocationAndCompass_m6CD8BA9881AA9AB0D1DCD4465641BDE603ED13E8(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_1;
 		L_1 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_0, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:15>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:19>
 		return;
 	}
 }
@@ -1805,7 +1805,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CSetupLocationAndCompassU3Ed__9_MoveNe
 IL_001b:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:19>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:25>
 		bool L_2;
 		L_2 = Permission_HasUserAuthorizedPermission_mF4C90E13124E28F6F672200E489CC25A9B645B8B(_stringLiteral2A4AF2371E5D32D286057BF0185547BF96F20333, NULL);
 		if (L_2)
@@ -1814,9 +1814,9 @@ IL_001b:
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:21>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:27>
 		Permission_RequestUserPermission_mF9CF3A21AAF34B311137C4D00B3AD6A6C2694242(_stringLiteral2A4AF2371E5D32D286057BF0185547BF96F20333, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:22>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:28>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_3 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_3, (1.0f), NULL);
 		__this->___U3CU3E2__current = L_3;
@@ -1832,17 +1832,17 @@ IL_0051:
 
 IL_0058:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:24>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:32>
 		LocationService_tF2F2720FE2C07562EBFD128889F9A99F4B41B1B2* L_4;
 		L_4 = Input_get_location_m1D1FA0938E5B83C46A666CE78D95A58B39164DB5(NULL);
 		NullCheck(L_4);
 		LocationService_Start_m5076FE201E96C086B0F9C2D8677DA69C98099F3D(L_4, (0.5f), (0.100000001f), NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:25>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:35>
 		Compass_t161CD14062E71ED7324FE12ED003EE0877EE546F* L_5;
 		L_5 = Input_get_compass_m7DA4657286F9B24D55BB120C9CF761A50B13899B(NULL);
 		NullCheck(L_5);
 		Compass_set_enabled_m26DFB64F789DA4B875359E8CE1C3E9E2270CFCA9(L_5, (bool)1, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:26>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:38>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_6 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_6, (1.0f), NULL);
 		__this->___U3CU3E2__current = L_6;
@@ -1854,7 +1854,7 @@ IL_0058:
 IL_0090:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:27>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/GPSService.cs:39>
 		return (bool)0;
 	}
 }
@@ -1899,24 +1899,24 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float NavigationMath_CalculateBearing_m75A833
 	float V_2 = 0.0f;
 	float V_3 = 0.0f;
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:7>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:9>
 		float L_0 = ___3_lon2;
 		float L_1 = ___1_lon1;
 		V_0 = ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_subtract(L_0, L_1)), (0.0174532924f)));
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:8>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:10>
 		float L_2 = ___0_lat1;
 		V_1 = ((float)il2cpp_codegen_multiply(L_2, (0.0174532924f)));
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:9>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:11>
 		float L_3 = ___2_lat2;
 		V_2 = ((float)il2cpp_codegen_multiply(L_3, (0.0174532924f)));
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:10>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:14>
 		float L_4 = V_0;
 		float L_5;
 		L_5 = sinf(L_4);
 		float L_6 = V_2;
 		float L_7;
 		L_7 = cosf(L_6);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:11>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:15>
 		float L_8 = V_1;
 		float L_9;
 		L_9 = cosf(L_8);
@@ -1933,7 +1933,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float NavigationMath_CalculateBearing_m75A833
 		float L_17;
 		L_17 = cosf(L_16);
 		V_3 = ((float)il2cpp_codegen_subtract(((float)il2cpp_codegen_multiply(L_9, L_11)), ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_multiply(L_13, L_15)), L_17))));
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:12>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:18>
 		float L_18 = V_3;
 		float L_19;
 		L_19 = atan2f(((float)il2cpp_codegen_multiply(L_5, L_7)), L_18);
@@ -1947,16 +1947,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float NavigationMath_CalculateDistance_m00A01
 	float V_1 = 0.0f;
 	float V_2 = 0.0f;
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:17>
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:18>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:24>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:25>
 		float L_0 = ___2_lat2;
 		float L_1 = ___0_lat1;
 		V_0 = ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_subtract(L_0, L_1)), (0.0174532924f)));
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:19>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:26>
 		float L_2 = ___3_lon2;
 		float L_3 = ___1_lon1;
 		V_1 = ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_subtract(L_2, L_3)), (0.0174532924f)));
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:20>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:29>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:30>
 		float L_4 = V_0;
 		float L_5;
 		L_5 = sinf(((float)(L_4/(2.0f))));
@@ -1976,7 +1977,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float NavigationMath_CalculateDistance_m00A01
 		float L_15;
 		L_15 = sinf(((float)(L_14/(2.0f))));
 		V_2 = ((float)il2cpp_codegen_add(((float)il2cpp_codegen_multiply(L_5, L_7)), ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_multiply(L_9, L_11)), L_13)), L_15))));
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:21>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:31>
 		float L_16 = V_2;
 		float L_17;
 		L_17 = sqrtf(L_16);
@@ -2007,7 +2008,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* NavigationMath_GetCardinalDirection
 	}
 	int32_t V_0 = 0;
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:26>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:38>
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_0 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)8);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_1 = L_0;
 		NullCheck(L_1);
@@ -2033,12 +2034,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* NavigationMath_GetCardinalDirection
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_8 = L_7;
 		NullCheck(L_8);
 		(L_8)->SetAt(static_cast<il2cpp_array_size_t>(7), (String_t*)_stringLiteralAD7F18B028A0FFC16578CA42928F48EAF0A92B4F);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:27>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:41>
 		float L_9 = ___0_angle;
 		int32_t L_10;
 		L_10 = Mathf_RoundToInt_m60F8B66CF27F1FA75AA219342BD184B75771EB4B_inline(((float)(L_9/(45.0f))), NULL);
 		V_0 = ((int32_t)(L_10%8));
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:28>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/NavigationMath.cs:42>
 		int32_t L_11 = V_0;
 		NullCheck(L_8);
 		int32_t L_12 = L_11;
@@ -2063,18 +2064,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhoneCamera_Start_m750FC2C73FCF97B24D20A
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&WebCamTexture_t2021D179149C925AA6D73E6F1898C8D46521C749_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral5B22BDBBFD3ABAFA1CCFAC935D53C22FB365720C);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral91198018A547CA4551A442F95D295BAE2CB3A0CB);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral304ED7F4A789BA1829F2CFFEFDCE6AAB6D5E2993);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral5108B700CF3E857B0D9310087F9C54103FED99B0);
 		s_Il2CppMethodInitialized = true;
 	}
 	WebCamDeviceU5BU5D_tA5B1352BDE6FE233B66C3ABF96E00EB3215629F5* V_0 = NULL;
 	int32_t V_1 = 0;
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:13>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:14>
 		WebCamDeviceU5BU5D_tA5B1352BDE6FE233B66C3ABF96E00EB3215629F5* L_0;
 		L_0 = WebCamTexture_get_devices_m57A8D669542CBDDB56B21C8DB62D703B7215EBFA(NULL);
 		V_0 = L_0;
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:15>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:16>
 		WebCamDeviceU5BU5D_tA5B1352BDE6FE233B66C3ABF96E00EB3215629F5* L_1 = V_0;
 		NullCheck(L_1);
 		if ((((RuntimeArray*)L_1)->max_length))
@@ -2083,23 +2084,23 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhoneCamera_Start_m750FC2C73FCF97B24D20A
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:17>
-		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
-		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral5B22BDBBFD3ABAFA1CCFAC935D53C22FB365720C, NULL);
 		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:18>
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral5108B700CF3E857B0D9310087F9C54103FED99B0, NULL);
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:19>
 		return;
 	}
 
 IL_0015:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:21>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:23>
 		V_1 = 0;
 		goto IL_004c;
 	}
 
 IL_0019:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:23>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:25>
 		WebCamDeviceU5BU5D_tA5B1352BDE6FE233B66C3ABF96E00EB3215629F5* L_2 = V_0;
 		int32_t L_3 = V_1;
 		NullCheck(L_2);
@@ -2111,7 +2112,7 @@ IL_0019:
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:25>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:28>
 		WebCamDeviceU5BU5D_tA5B1352BDE6FE233B66C3ABF96E00EB3215629F5* L_5 = V_0;
 		int32_t L_6 = V_1;
 		NullCheck(L_5);
@@ -2129,14 +2130,14 @@ IL_0019:
 
 IL_0048:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:21>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:23>
 		int32_t L_11 = V_1;
 		V_1 = ((int32_t)il2cpp_codegen_add(L_11, 1));
 	}
 
 IL_004c:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:21>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:23>
 		int32_t L_12 = V_1;
 		WebCamDeviceU5BU5D_tA5B1352BDE6FE233B66C3ABF96E00EB3215629F5* L_13 = V_0;
 		NullCheck(L_13);
@@ -2146,7 +2147,7 @@ IL_004c:
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:29>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:32>
 		WebCamTexture_t2021D179149C925AA6D73E6F1898C8D46521C749* L_14 = __this->___backCam;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_15;
@@ -2157,25 +2158,25 @@ IL_004c:
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:31>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:34>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
-		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral91198018A547CA4551A442F95D295BAE2CB3A0CB, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:32>
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral304ED7F4A789BA1829F2CFFEFDCE6AAB6D5E2993, NULL);
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:35>
 		return;
 	}
 
 IL_006b:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:35>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:39>
 		WebCamTexture_t2021D179149C925AA6D73E6F1898C8D46521C749* L_16 = __this->___backCam;
 		NullCheck(L_16);
 		WebCamTexture_Play_mAB313C6F98D5433C414DA31DD96316BDE8D19A26(L_16, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:36>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:40>
 		RawImage_tFF12F7DB574FBDC1863CF607C7A12A5D9F8D6179* L_17 = __this->___background;
 		WebCamTexture_t2021D179149C925AA6D73E6F1898C8D46521C749* L_18 = __this->___backCam;
 		NullCheck(L_17);
 		RawImage_set_texture_mC016318C95CC17A826D57DD219DBCB6DFD295C02(L_17, L_18, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:37>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:41>
 		return;
 	}
 }
@@ -2193,7 +2194,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhoneCamera_Update_m9F6D7E0379A70DAC4A8C
 	int32_t V_2 = 0;
 	float G_B5_0 = 0.0f;
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:41>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:45>
 		WebCamTexture_t2021D179149C925AA6D73E6F1898C8D46521C749* L_0 = __this->___backCam;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -2204,13 +2205,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhoneCamera_Update_m9F6D7E0379A70DAC4A8C
 		}
 	}
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:41>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:45>
 		return;
 	}
 
 IL_000f:
 	{
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:44>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:48>
 		WebCamTexture_t2021D179149C925AA6D73E6F1898C8D46521C749* L_2 = __this->___backCam;
 		NullCheck(L_2);
 		int32_t L_3;
@@ -2220,12 +2221,12 @@ IL_000f:
 		int32_t L_5;
 		L_5 = VirtualFuncInvoker0< int32_t >::Invoke(6, L_4);
 		V_0 = ((float)(((float)L_3)/((float)L_5)));
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:45>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:49>
 		AspectRatioFitter_tEA1004A8240374C9BE7623981F999AA9789CDD09* L_6 = __this->___fitter;
 		float L_7 = V_0;
 		NullCheck(L_6);
 		AspectRatioFitter_set_aspectRatio_m4192E203648BE0ACA39D9C0540C982331CEA91D9(L_6, L_7, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:47>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:52>
 		WebCamTexture_t2021D179149C925AA6D73E6F1898C8D46521C749* L_8 = __this->___backCam;
 		NullCheck(L_8);
 		bool L_9;
@@ -2248,7 +2249,7 @@ IL_0049:
 IL_004e:
 	{
 		V_1 = G_B5_0;
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:48>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:53>
 		RawImage_tFF12F7DB574FBDC1863CF607C7A12A5D9F8D6179* L_10 = __this->___background;
 		NullCheck(L_10);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_11;
@@ -2259,13 +2260,13 @@ IL_004e:
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_13), (1.0f), L_12, (1.0f), NULL);
 		NullCheck(L_11);
 		Transform_set_localScale_mBA79E811BAF6C47B80FF76414C12B47B3CD03633(L_11, L_13, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:50>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:56>
 		WebCamTexture_t2021D179149C925AA6D73E6F1898C8D46521C749* L_14 = __this->___backCam;
 		NullCheck(L_14);
 		int32_t L_15;
 		L_15 = WebCamTexture_get_videoRotationAngle_m2BF420A1243F56415BEF82CC84AB4C7B342C991F(L_14, NULL);
 		V_2 = ((-L_15));
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:51>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:57>
 		RawImage_tFF12F7DB574FBDC1863CF607C7A12A5D9F8D6179* L_16 = __this->___background;
 		NullCheck(L_16);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_17;
@@ -2276,7 +2277,7 @@ IL_004e:
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_19), (0.0f), (0.0f), ((float)L_18), NULL);
 		NullCheck(L_17);
 		Transform_set_localEulerAngles_m0458551662A1A51FDCA4C0417282B25D391661DF(L_17, L_19, NULL);
-		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:52>
+		//<source_info:D:/Practice/Repository/Navigation_arrow/Assets/Scripts/PhoneCamera.cs:58>
 		return;
 	}
 }
