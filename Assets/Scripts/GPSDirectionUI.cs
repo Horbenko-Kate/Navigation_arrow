@@ -86,5 +86,5 @@ public class GPSDirectionUI : MonoBehaviour
         if (menuButton != null) menuButton.SetActive(!state);
     }
 
-    public void CloseArrivalPanel() => arrivalPanel?.SetActive(false);
+    public void CloseArrivalPanel() => arrivalPanel?.SetActive(false); 
 }
